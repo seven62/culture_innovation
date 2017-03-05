@@ -2,20 +2,17 @@
 
 * sean background
 
-## Foundation
-
-
-
 ## Our Problem to Solve
 
 * extreme diversity in skillset / experience
 * time  - drill / AT
 
 
-## SOF Model
-* humans are more important that hardware
-* quality over quantity
-* cannot be mass produced
+## What is *OUR* Culture?
+* SOF model
+** humans are more important that hardware
+** quality over quantity
+** cannot be mass produced
 
 
 
@@ -49,6 +46,7 @@
 
 ## Communication
 * slack - geekshelpinggeeks
+* team
 
 
 
